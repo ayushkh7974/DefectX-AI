@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+*.db
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+*.local
+
+# OS
+.DS_Store
+Thumbs.db

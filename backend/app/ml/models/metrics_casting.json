@@ -1,0 +1,14 @@
+{
+  "category": "casting",
+  "images": 715,
+  "auroc": 0.9911,
+  "accuracy": 0.9692,
+  "precision": 0.9757,
+  "recall": 0.9757,
+  "ms_per_image": 25.6,
+  "fps": 39.0,
+  "model_size_mb": 18.07,
+  "recall_by_defect_type": {
+    "def_front": 0.976
+  }
+}
